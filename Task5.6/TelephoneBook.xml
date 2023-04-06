@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MyContacts>
+	<Contact>
+		<Name >Dina</Name>
+		<TelephoneNumber>0673948302</TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name >Sofi</Name>
+		<TelephoneNumber>0954321765</TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name >Alex</Name>
+		<TelephoneNumber>0985376251</TelephoneNumber>
+	</Contact>
+</MyContacts>
